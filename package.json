@@ -1,0 +1,29 @@
+{
+  "name": "ibird-accounts",
+  "version": "1.0.0-alpha.1",
+  "description": "A user account addon for ibird.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfxs/ibird-accounts.git"
+  },
+  "keywords": [
+    "ibird",
+    "addon",
+    "user",
+    "account",
+    "token",
+    "jwt",
+    "json",
+    "web"
+  ],
+  "author": "yinfxs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yinfxs/ibird-accounts/issues"
+  },
+  "homepage": "https://github.com/yinfxs/ibird-accounts#readme",
+  "dependencies": {
+    "jsonwebtoken": "8.1.0"
+  }
+}
