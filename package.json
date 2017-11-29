@@ -9,13 +9,20 @@
   },
   "keywords": [
     "ibird",
+    "node",
+    "koa",
+    "web",
+    "app",
+    "http",
+    "application",
     "addon",
     "user",
     "account",
     "token",
     "jwt",
     "json",
-    "web"
+    "web",
+    "ibird-addon"
   ],
   "author": "yinfxs",
   "license": "Apache-2.0",
