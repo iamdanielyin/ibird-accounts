@@ -2,7 +2,7 @@ const http = require('http');
 const request = require('supertest');
 const expect = require('chai').expect;
 const accountsAddon = require('../lib/index');
-const app = require('/Users/yinfxs/WebstormProjects/ibird').newApp();
+const app = require('ibird').newApp();
 
 const tokenKey = 'mytoken';
 const secretOrPrivateKey = 'ibird';
