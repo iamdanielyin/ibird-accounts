@@ -19,7 +19,7 @@ app.import(accountsAddon, {
             home: 'http://ibird.yinfxs.com'
         } : null;
     },
-    whitelists: [
+    whitelist: [
         'POST /login'
     ]
 });
